@@ -1,0 +1,88 @@
+# Project Lighthouse
+
+This GitHub organization hosts a number of Open Source projects for Project Lighthouse, the light installation at Kiel University.
+
+## Client SDKs
+
+Build your own Lighthouse apps and games.
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <div align="center">
+          <img src="images/python.png" height="42"><br>
+          Python
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/typescript.png" height="42"><br>
+          TypeScript
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/rust.png" height="42"><br>
+          Rust
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/go.png" height="42"><br>
+          Go
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/duke.png" height="42"><br>
+          Java
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/swift.png" height="42"><br>
+          Swift
+        </div>
+      </th>
+      <th>
+        <div align="center">
+          <img src="images/haskell.png" height="42"><br>
+          Haskell
+        </div>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/pyghthouse">Pyghthouse</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/nighthouse">Nighthouse</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/lighthouse-rust">lighthouse-rust</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/lighthouse-go">lighthouse-go</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/jighthouse">jighthouse</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/lighthouse-swift">lighthouse-swift</a>
+      </td>
+      <td>
+        <a href="https://github.com/ProjectLighthouseCAU/lighthouse-haskell">lighthouse-haskell</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/fwcd/phare">Phare (inofficial)</a>
+      </td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
