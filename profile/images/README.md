@@ -36,6 +36,16 @@ This software is provided by Sun Microsystems Inc. "as is" and any express or im
 - Author: Darrin A Thompson; Jeffrey Wheeler
 - License: Public Domain
 
+## `luna.svg`
+
+- Source: https://github.com/ProjectLighthouseCAU/luna-desktop/blob/main/build/icon.svg
+- Author: Project Lighthouse
+
+## `luna-screenshot.png`
+
+- Source: https://github.com/ProjectLighthouseCAU/luna/blob/main/screenshot.png
+- Author: Project Lighthouse
+
 ## `python.png`
 
 - Source: https://en.wikipedia.org/wiki/File:Python-logo-notext.svg

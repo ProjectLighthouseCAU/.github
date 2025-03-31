@@ -4,7 +4,7 @@ This GitHub organization hosts a number of Open Source projects for Project Ligh
 
 ## Client SDKs
 
-Build Lighthouse apps and games in your language of choice:
+Build Lighthouse apps and games in your language of choice.
 
 <div align="center">
   <table>
@@ -114,3 +114,31 @@ Build Lighthouse apps and games in your language of choice:
 
 > [!NOTE]
 > Libraries marked with an asterisk are inofficial and maintained by external contributors.
+
+## Frontend
+
+Official frontends for Project Lighthouse.
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <div align="center">
+            <img src="images/luna.svg" height="64"><br>
+            LUNA
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/ProjectLighthouseCAU/luna"><img src="images/luna-screenshot.png" width="256" alt="LUNA Screenshot"><br>The unified web frontend</a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
