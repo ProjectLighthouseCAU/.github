@@ -107,8 +107,7 @@ Build Lighthouse apps and games in your language of choice.
   </table>
 </div>
 
-> [!NOTE]
-> Libraries marked with an asterisk are inofficial and maintained by external contributors.
+For inspiration, check out the [list with games and animations](https://github.com/ProjectLighthouseCAU/games-and-animations). Note that libraries marked with an asterisk are inofficial and maintained by external contributors.
 
 ## Frontend
 
