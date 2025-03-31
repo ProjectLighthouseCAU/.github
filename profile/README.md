@@ -107,9 +107,7 @@ Build Lighthouse apps and games in your language of choice.
 
 For inspiration, check out the [list with games and animations](https://github.com/ProjectLighthouseCAU/games-and-animations). Note that libraries marked with an asterisk are inofficial and maintained by external contributors.
 
-## Frontend
-
-Official frontends for Project Lighthouse.
+## Frontend Projects
 
 <div align="center">
   <table>
