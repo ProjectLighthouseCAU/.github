@@ -59,6 +59,12 @@ Build Lighthouse apps and games in your language of choice.
       <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>
         <div align="center">
           <img src="images/duke.png" height="42"><br>
